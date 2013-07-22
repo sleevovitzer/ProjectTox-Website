@@ -1,0 +1,63 @@
+{
+    "_author": "sleevovitzer",
+    "_language": "Croatian",
+    "_comment": "Only translate from this file, not the others!",
+    "_ind": 0,
+
+    "lf_title": "Tox",
+    
+    "nv_home": "Početna",
+    "nv_about": "O projektu",
+    "nv_features": "Značajke",
+    "nv_contribute": "Doprinesi",
+    
+    "sect1_slogan": "Sigurni razgovorni za sve nas.",
+    "sect1_description": "Kako danas vlade prisluškuju i prate sve raširene programe za razgovor, razvili smo Tox, jednostavnu aplikaciju s kojom možete ostati u kontaktu s obitelji i prijateljima bez da vas itko prisluškuje. ",
+    "sect1_learnmore": "Nauči više",
+    "sect1_download": "Skini",
+    
+    
+    "sect2_abouttox": "O Tox-u",
+    
+    "sect2_aboutbody": "Tox je napravljen sa idejom da se može održati kontakt sa prijateljima i obitelji bez da se krši Vaša privatnost.\n Dok drugi poznati servisi traže od vas naknadu za otključavanje mogučnosti, Tox je besplatan i u cijeni i u slobodi.\n Takoreći, možete s njime raditi što god hočete",
+    
+    
+    "sect3_messages": "Neke odlične značajke",
+    
+    "sect3_messages": "Poruke",
+    "sect3_messages_blurb": "Na dohvat ruke.\n Uvijek ste u toku sa instantnim kriptiranim porukama.",
+    
+    "sect3_voice": "Pozivi",
+    "sect3_voice_blurb": "Ostanite u kontaktu.\n Razgovarajte besplatno i sigurno sa drugim korisnicima Tox-a.",
+    
+    "sect3_video": "Video",
+    "sect3_video_blurb": "Vidjeti znači vjerovati.\n Napričajte se u četiri oka sa sigurnim video pozivima.",
+    
+    "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
+    
+    "sect4_principles": "Trenutačne poruke, video konferencije i još mnogo više",
+    
+    "sect4_security": "Sigurnost",
+    "sect4_security_blurb": "Tox shvaća Vašu privatnost ozbiljno.<br/>Sa <span class=\"text bold\">prvoklasnom enkripcijom</span> možete biti sigurni da jedini ljudi koji će čitati Vaše poruke su oni kojima ste ih poslali.",
+    
+    "sect4_easy": "Jednostavnost upotrebe",
+    "sect4_easy_blurb": "Nasuprot drugih riješenja za sigurnu komunikaciju, Tox od Vas ne traži da budete programer. Tox dolazi sa <span class=\"text bold\">lako upotrebljivim</span> sučeljem koje vam dopušta de se fokusirate na Vaše razgovore.",
+    
+    "sect4_freedom": "Sloboda",
+    "sect4_freedom_blurb": "Tox je besplatan za upotrebu i za modifikacije. Imate potpuno slobodu u korištenju i modofikaciji Tox-a. Štoviše, <span class=\"text bold\">Tox Vas nikada neće zamarati sa reklamama ili tražiti od Vas da platite za neke mogučnosti.</span>",
+    
+    
+    "sect5_contribute": "Doprinesi",
+    
+    "sect5_github": "Želite pomoći? Mi smo na <span class=\"text normal color white\">GitHub-u</span>.\n Prijašnje iskustvo u kodiranju nije potrebno",
+    "sect5_sourceongithub": "Source on GitHub",
+    
+    "sect6_freesoftware": Besplatni program",
+    "sect6_developers": "Mi smo super momci <span class=\"text normal\">iz cijelog svijeta.</span>.",
+    
+    "sect6_jointheteam": "Pridruži se ekipi",
+    "sect6_joinongithub": "Pomogni izgraditi Tox na <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
+    
+    "sect6_needhelp": "Trebate pomoć?",
+    "sect6_githubtoirc": "Pokrenite svoj projekt i pitajte nas na <span class=\"text normal\">GitHub</span>, ili na <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
+}
